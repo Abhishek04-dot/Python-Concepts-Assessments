@@ -6,4 +6,5 @@ Add = a+b
 sub= a-b
 mul= a*b
 div= a/b
-print('Addition',Add,'\nSubtraction',sub,'\nMultiplication',mul,'\nDivision',div)
+
+print('Addition:',Add,'\nSubtraction:',sub,'\nMultiplication:',mul,'\nDivision:',div)
